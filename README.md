@@ -1,13 +1,18 @@
-# Hi, Lovro here 👋
 
-- 🔭 lead fullstack developer [@Rentlio](https://github.com/Rentlio) (employee no 2.)
-- 👾 JS, Go, Php, Python, Java
-- 🇭🇷,🇬🇧,🇮🇹, loading: 🇩🇪...
+🔭 Lead fullstack developer [@Rentlio](https://github.com/Rentlio) (employee no 2.)
 
-## Let's ☕️ talk about your idea
-📫 [lovro.predovan@gmail.com](mailto:lovro.predovan@gmail.com) or [lovro_p](https://twitter.com/lovro_p)
+JS, Go, Php, Python, Java, SQL
 
-### How can I help?
+🇭🇷 🇬🇧 🇮🇹 🇩🇪
+
+## Let's brainstorm your idea
+📫 [lovro.predovan@gmail.com](mailto:lovro.predovan@gmail.com)
+
+🐧 [twitter](https://twitter.com/lovro_p)
+
+🔗 [linkedIn](https://www.linkedin.com/in/lovropredovan/)
+
+## How can I help?
 - 🌤 consulting
 - 🧠 brainstorming and solving problems
 - 🔭 prototyping concepts and ideas
@@ -15,9 +20,9 @@
 - 🐞 debugging
 - 🚧 setting up architecture
 
-### I can also help you find world class
-- 🎨 design
+## I can find you world class
+- 🎨 design(er)
 - 🥁 seo
-- 📚 content creators
+- 📚 content (creators)
 
 
