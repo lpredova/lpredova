@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, Lovro here 👋
 
-<!--
-**lpredova/lpredova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 lead fullstack developer [@Rentlio](https://github.com/Rentlio) (employee no 2.)
+- 👾 JS, Go, Php, Python, Java
+- 🌱 currently learning German 🇩🇪
+- 😄 "I shall either find a way or make one"
 
-Here are some ideas to get you started:
+## Let's have a ☕️ and talk about your idea
+📫 [lovro.predovan@gmail.com](mailto:lovro.predovan@gmail.com) or [lovro_p](https://twitter.com/lovro_p)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How can I help?
+- 🌤 consulting
+- 🧠 brainstorming and solving problems
+- 🔭 prototyping concepts and ideas
+- ✨ programming A+ quality web and fluid mobile apps
+
+### I can also help you find world class
+- 🎨 Design
+- 🥁 SEO
+- 📚 Content creators
+
+
