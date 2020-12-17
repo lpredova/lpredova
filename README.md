@@ -1,7 +1,7 @@
 
 🔭✨   Fullstack software engineer 
 
- >Go, JS , PHP, Python, Java, SQL, DevOps
+ > Elixir, Go, JS , PHP, SQL, DevOps
 
 
 - Committed to doing the right things in the right way.
