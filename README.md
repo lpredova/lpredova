@@ -1,7 +1,7 @@
 
-🔭✨   Fullstack software engineer 
+🔭✨   Fullstack software solutions engineer && experienced team lead
 
- > Elixir, Go, JS , PHP, SQL, DevOps
+ > Elixir, Go, Typescript, PHP, SQL, Flutter, DevOps (AWS, DO, GCP)
 
 
 - Committed to doing the right things in the right way.
@@ -10,12 +10,7 @@
 
 - Passionate about solving real world problems.
 
+
 📫 [lovro.predovan@gmail.com](mailto:lovro.predovan@gmail.com)
 
-🐧 [twitter](https://twitter.com/lovro_p)
-
 🔗 [linkedIn](https://www.linkedin.com/in/lovropredovan/)
-
-
-
-
